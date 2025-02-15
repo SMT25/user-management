@@ -1,0 +1,27 @@
+:host {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100vh;
+  padding: 10px;
+  margin: 10px;
+}
+
+mat-card-title {
+  margin-bottom: 20px; /* Add space below the title */
+}
+
+h4 {
+  color: #333;
+  margin: 40px;
+}
+
+
+mat-card {
+  width: 400px;
+  padding: 20px;
+}
+
+.example-form-field {
+  width: 200px;
+}
